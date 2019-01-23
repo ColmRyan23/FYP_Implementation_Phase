@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FYP_Implementation_Phase</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="noOfattempts">No of attempts remaing:</string>
+    <string name="welcome_message">Welcome Colm</string>
+
+</resources>
