@@ -7,5 +7,7 @@
     <string name="welcome_message">Welcome Colm</string>
     <string name="menu">Menu</string>
     <string name="menu_ietm_1">New Game</string>
+    <string name="games">Games</string>
+    <string name="games_menu_item_1">Name 5 things?</string>
 
 </resources>
