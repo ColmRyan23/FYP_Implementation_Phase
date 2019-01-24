@@ -5,5 +5,7 @@
     <string name="login">Login</string>
     <string name="noOfattempts">No of attempts remaing:</string>
     <string name="welcome_message">Welcome Colm</string>
+    <string name="menu">Menu</string>
+    <string name="menu_ietm_1">New Game</string>
 
 </resources>
