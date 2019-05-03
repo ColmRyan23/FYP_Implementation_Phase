@@ -14,7 +14,7 @@ public class GamesMenuActivity extends AppCompatActivity {
     }
 
     public void gamesItem1 (View v){
-        Intent games_menu_item_1_intent = new Intent(GamesMenuActivity.this, NameFiveThingsActivity.class);
+        Intent games_menu_item_1_intent = new Intent(GamesMenuActivity.this, SpeedSortLevelsActivity.class);
         startActivity(games_menu_item_1_intent);
     }
 }

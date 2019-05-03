@@ -3,11 +3,21 @@
     <string name="username">User Name</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
-    <string name="noOfattempts">No of attempts remaing:</string>
+    <string name="noOfattempts">No of attempts remaining:</string>
     <string name="welcome_message">Welcome Colm</string>
     <string name="menu">Menu</string>
     <string name="menu_ietm_1">New Game</string>
     <string name="games">Games</string>
-    <string name="games_menu_item_1">Name 5 things?</string>
+    <string name="games_menu_item_1">Speed Sort</string>
+    <string name="name_five_things">Name Five Fruits?</string>
+    <string name="fruit_1">Apple</string>
+    <string name="item_1">Pets</string>
+    <string name="title_activity_speed_sport">SpeedSportActivity</string>
+    <string name="levels">Levels</string>
+    <string name="level_1">Level 1</string>
+    <string name="instructions">Instructions</string>
+    <string name="drag_and_drop_the_image_up_to_the_given_category">Drag and Drop the image up to the given category</string>
+    <string name="pets">Pets</string>
+    <string name="continueon">Continue</string>
 
 </resources>

@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".SpeedSortLevel2Activity"></activity>
+        <activity android:name=".SpeedSortLevelsActivity" />
+        <activity android:name=".SpeedSortInstructionsActivity" />
+        <activity android:name=".LevelOneCompleteActivity" />
+        <activity android:name=".SpeedSortActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,7 +24,7 @@
         <activity android:name=".WelcomeActivity" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".GamesMenuActivity" />
-        <activity android:name=".NameFiveThingsActivity"></activity>
+        <activity android:name=".NameFiveThingsActivity" />
     </application>
 
 </manifest>
